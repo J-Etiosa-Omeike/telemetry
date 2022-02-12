@@ -1,4 +1,3 @@
-from curses import baudrate
 from machine import Pin, UART, I2C 
 
 import utime, time 
